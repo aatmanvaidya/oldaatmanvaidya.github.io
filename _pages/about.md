@@ -1,0 +1,10 @@
+---
+layout: page
+title: About
+permalink: /about/
+order: 1
+---
+
+My name is Aatman Vaidya, a recent graduate in BTech Computer Science and Engineering. I am primarily interested in Machine Learning and Social Network Analysis. 
+
+I received my undergraduate degree from [Ahmedabad University](https://ahduni.edu.in/). For my final year thesis, I proposed a novel model to capture the spread of Hate Speech on Twitter.
