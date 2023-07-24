@@ -15,8 +15,8 @@ Sewon Min\*, <i>Kalpesh Krishna</i>\*, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang 
 arXiv 2023  
 [PIP package](https://pypi.org/project/factscore) // [code](https://github.com/shmsw25/FActScore) // [tweet](https://twitter.com/kalpeshk2011/status/1661151332148084737) -->
 
-## Thesis
+<!-- ## Thesis
 
 [Undergraduate Thesis - Constraint Driven Learning]({{ site.url }}/assets/bachelor_thesis_final.pdf)  
 *(under guidance of [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/))*  
-IIT Bombay *(2017-2018)*  
+IIT Bombay *(2017-2018)*   -->
