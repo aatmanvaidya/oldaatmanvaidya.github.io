@@ -3,7 +3,7 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 27%; padding: 6px;" src=" {{ site.url }}/assets/profle.jpg">
+<img style="float: right; width: 27%; padding: 20px;" src=" {{ site.url }}/assets/profle.jpg">
 
 My name is Aatman Vaidya, recent graduate in BTech Computer Science and Engineering. I am primarily interested in Machine Learning and Social Network Analysis. 
 
