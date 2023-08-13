@@ -17,57 +17,31 @@ Usage:
         
 -->{% endcomment %}
 
-{% comment %} {% if site.JB.posts_collate.provider == "custom" %}
-  {% include custom/posts_collate %}
-{% else %}
-  <ul>
-  {% for post in posts_collate  %}
-    <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &rarr; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-  </ul>
-{% endif %}
-{% assign posts_collate = nil %} {% endcomment %}
-
-{% comment %} {% if site.JB.posts_collate.provider == "custom" %}
-  {% include custom/posts_collate %}
-{% else %}
-  <ul>
-  {% for post in posts_collate %}
-    <li style="display: flex; align-items: center; margin-bottom: 20px;">
-      <div>
-        <a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ post.image }}" alt="Post Image" style="width: 100px; height: auto;"></a>
-      </div>
-      <div style="margin-left: 10px;">
-        <div><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></div>
-        <div><span>{{ post.date | date: "%B %e, %Y" }}</span></div>
-      </div>
-    </li>
-  {% endfor %}
-  </ul>
-{% endif %}
-{% assign posts_collate = nil %} {% endcomment %}
-
 {% if site.JB.posts_collate.provider == "custom" %}
   {% include custom/posts_collate %}
 {% else %}
   <ul style="padding-left: 0;">
     {% for post in posts_collate %}
-      <li style="margin-bottom: 20px;">
-        {% if post.image %}
-          <div style="display: flex; align-items: center;">
-            <div>
-              <a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ post.image }}" alt="Post Image" style="width: 100px; height: auto;"></a>
+      {% if post.isDisplay == true %}
+        <li style="margin-bottom: 20px;">
+          {% if post.image %}
+            <div style="display: flex; align-items: center;">
+              <div>
+                <a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ post.image }}" alt="Post Image" style="width: 100px; height: auto;"></a>
+              </div>
+              <div style="margin-left: 10px;">
+                <div><span style="font-size: 14px;">{{ post.date | date: "%B %e, %Y" }}</span> &rarr;</div>
+                <div><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></div>
+              </div>
             </div>
-            <div style="margin-left: 10px;">
-              <div><span style="font-size: 14px;">{{ post.date | date: "%B %e, %Y" }}</span> &rarr;</div>
-              <div><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></div>
-            </div>
-          </div>
-        {% else %}
-          <div><span style="font-size: 14px;">{{ post.date | date: "%B %e, %Y" }}</span> &rarr; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></div>
-        {% endif %}
-      </li>
+          {% else %}
+            <div><span style="font-size: 14px;">{{ post.date | date: "%B %e, %Y" }}</span> &rarr; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></div>
+          {% endif %}
+        </li>
+      {% endif %}
     {% endfor %}
   </ul>
 {% endif %}
 {% assign posts_collate = nil %}
+
+
