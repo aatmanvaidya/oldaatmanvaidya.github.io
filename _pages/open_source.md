@@ -43,7 +43,7 @@ Outlining my non-published projects here (open source contributions, course rese
 
 [Book Recommendation System](https://github.com/aatmanvaidya/Amazon-Co-purchase-Book-Recommendation-System) - A book recommendation system by analyzing a 1-degree ego network graph. Utilized SalesRank, AvgRating, TotalReviews, Degree Centrality, and Clustering Coefficient to predict the top 5 recommended books for a user.
 
-**Connected by Misery, Separated in Space** - Created a Visual Space Intervention Art depicting the atrocities on Dalits in Gujarat (2001-2013) using graphs, showcasing their links to districts and interactions between atrocities.
+**Connected by Misery, Separated in Space** - Created a Visual Space Intervention Art depicting the atrocities on Dalits in Gujarat (2001-2013) using graphs, showcasing their links to districts and interactions between atrocities. This [report]({{ site.url }}/assets/pva_project.pdf) consists of my methodology and the dataset used.
  
 
 <!-- <div class="custom-container">
