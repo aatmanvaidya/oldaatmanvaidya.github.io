@@ -7,7 +7,7 @@ layout: page
 
 My name is Aatman Vaidya, recent graduate in BTech Computer Science and Engineering. I am primarily interested in Machine Learning and Social Network Analysis. 
 
-I received my undergraduate degree from [Ahmedabad University](https://ahduni.edu.in/). For my final year thesis, I proposed a novel model to capture the spread of Hate Speech on Twitter. 
+I received my undergraduate degree from [Ahmedabad University](https://ahduni.edu.in/). For my final year thesis, I proposed a novel model to capture the spread of Hate Speech on Twitter. I was also selected for the semi-finals of the [Bosch Future Mobility Challenge](https://boschfuturemobility.com/) in Cluj, Romania and built an [autonoums driving car](https://youtu.be/8FbNvK--q_s) for it (summer 2022). 
 
 You can find my research work and publications under the [Research]({{ site.url }}/research) tab.
 

@@ -7,4 +7,6 @@ Things to add
 - blogs on life and other things you though about. 
 - talk about PClub and sessions you took
 - make a dataset of instagram comments on manipur violence. 
-- 
+- add books to goodreads and goodreads to footer.
+- add goodreads to the footer
+- add books to goodreads
