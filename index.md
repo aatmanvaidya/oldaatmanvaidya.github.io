@@ -18,7 +18,7 @@ Email ID: aatmanvaidya [at] gmail [dot] com
 
 <div style="height:150px;overflow:auto; border:1px solid #999; padding-left: 0.7em; padding-right: 0.7em">
 <table>
-<col width="120px">
+<col width="100px">
 <col width="650px">
 <tr><td><b>August 2023:</b></td><td>Paper on Forecasting Toxicity using Transformers got accepted at <a href="https://www.sis.pitt.edu/lersais/conference/cogmi/2023/">IEEE CogMI.</a></td></tr>
 <tr><td><b>August 2023:</b></td><td>Started working at <a href="https://tattle.co.in/">Tattle</a>!</td></tr>
