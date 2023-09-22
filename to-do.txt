@@ -10,3 +10,4 @@ Things to add
 - add books to goodreads and goodreads to footer.
 - add goodreads to the footer
 - add books to goodreads
+- write a better index.md file
