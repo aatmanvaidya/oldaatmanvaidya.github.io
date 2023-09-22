@@ -1,6 +1,6 @@
 # Portfolio
 
-This repo contains the code for my portfolio. 
+This repo contains the code for my [portfolio](https://aatmanvaidya.github.io/). 
 <br>
 <br>
 The portfolio is powered by [Jekyll](https://jekyllrb.com/) with [al-folio](https://github.com/alshedivat/al-folio) theme. Majority of the template is inspired and the code is taken from the portfolio of [Kalpesh Krishna](https://martiansideofthemoon.github.io/)
