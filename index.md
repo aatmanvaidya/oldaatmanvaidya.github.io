@@ -25,3 +25,5 @@ Email ID: aatmanvaidya [at] gmail [dot] com
 <tr><td><b>June 2023:</b></td><td>Defended my Undergraduate Thesis, you can access it <a href="{{ site.url }}/assets/ug_thesis.pdf">here.</a></td></tr>
 <tr><td><b>May 2023:</b></td><td>Went to Cluj, Romania to participate in the semi-final round of the <a href="https://boschfuturemobility.com/">Bosch Future Mobility Challenge</a> - Built an <a href="https://youtu.be/8FbNvK--q_s">autonoums driving car</a>!</td></tr>
 <tr><td><b>May 2023:</b></td><td>Finished my BTech in Computer Science and Engineering from <a href="https://ahduni.edu.in/">Ahmedabad University</a>.</td></tr>
+</table>
+</div>
