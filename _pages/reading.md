@@ -5,8 +5,6 @@ permalink: /reading/
 order: 7
 ---
 
-Dump of everything I read
-
 [Goodreads Profile](https://www.goodreads.com/user/show/114497901-aatman-vaidya) (not updated since may, 2020)
 
 <div style="height:150px;overflow:auto; border:1px solid #999; padding-left: 0.7em; padding-right: 0.7em">
