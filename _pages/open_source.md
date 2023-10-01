@@ -39,11 +39,11 @@ Outlining my non-published projects here (open source contributions, course rese
 
 [Coronary Artery Disease Prediction using Machine Learning Classifiers](https://github.com/aatmanvaidya/CSE523-Machine-Learning-2022-Abraca-data) - A supervised machine learning model using k-NN and Logistic Regression classifiers to predict an individual’s 10-year future risk of Coronary Artery Disease. 
 
-[Real-time File Sharing Website](https://github.com/aatmanvaidya/File-Sharing-P2P-in-Node.js) -  Real-time file sharing website that transfers files over a peer-to-peer network.
-
 [Book Recommendation System](https://github.com/aatmanvaidya/Amazon-Co-purchase-Book-Recommendation-System) - A book recommendation system by analyzing a 1-degree ego network graph. Utilized SalesRank, AvgRating, TotalReviews, Degree Centrality, and Clustering Coefficient to predict the top 5 recommended books for a user.
 
 **Connected by Misery, Separated in Space** - Created a Visual Space Intervention Art depicting the atrocities on Dalits in Gujarat (2001-2013) using graphs, showcasing their links to districts and interactions between atrocities. This [report]({{ site.url }}/assets/pva_project.pdf) consists of my methodology and the dataset used.
+
+**PIBQI** - Created an Image quality index for Indian Coin Images. 
  
 
 <!-- <div class="custom-container">
