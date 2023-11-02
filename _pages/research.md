@@ -4,15 +4,21 @@ title: Research
 permalink: /research/
 order: 5
 ---
-I am broadly interested in Machine Learning and Social Network Analysis.
 
+I am broadly interested in Machine Learning and Social Network Analysis.
+<style>
+  #aligned-star {
+    vertical-align: middle;
+  }
+</style>
 [Google Scholar](https://scholar.google.com/citations?user=2lFWVlgAAAAJ&hl=en)
 <!-- ### Selected Papers -->
 ### Other Papers
 
-* [Coping Resources of Young People Experiencing COVID-19 Second Wave, in India: A Preliminary Study](https://www.proquest.com/openview/0e01cf4ea635cfe15a0dd2e0e80f5edc/1?pq-origsite=gscholar&cbl=506336)<br>
-**Journal of Psychosocial Research**
-
+_Coping Resources of Young People Experiencing COVID-19 Second Wave, in India: A Preliminary Study_<br>
+Pandit, Shilpa Ashok; **Vaidya, Aatman**; Shah, Aangi; Shah, Eshva; Iyer, Isha; et al.<br>
+Journal of Psychosocial Research <span id="aligned-star">*</span> May, 2022<br>
+[[Paper](https://www.proquest.com/openview/0e01cf4ea635cfe15a0dd2e0e80f5edc/1?pq-origsite=gscholar&cbl=506336)]
 
 ### Thesis
 
