@@ -9,3 +9,4 @@ Things to add
 - make a dataset of instagram comments on manipur violence. 
 - write a better index.md file
 - add cities bookugrp to website
+- add paper links to updates
