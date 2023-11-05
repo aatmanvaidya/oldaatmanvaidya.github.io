@@ -12,3 +12,5 @@ Make sure you have you have [Ruby](https://www.ruby-lang.org/en/downloads/) and 
 $ bundle install
 $ bundle exec jekyll serve
 ```
+
+This site will be hosted here - `http://127.0.0.1:4000/`
