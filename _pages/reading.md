@@ -3,6 +3,7 @@ layout: page
 title: Reading
 permalink: /reading/
 order: 7
+exclude: true
 ---
 
 [Goodreads Profile](https://www.goodreads.com/user/show/114497901-aatman-vaidya) (not updated since may, 2020)
