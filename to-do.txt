@@ -10,4 +10,3 @@ Things to add
 - write a better index.md file
 - add cities bookugrp to website
 - add paper links to updates
-- add DCS talk
