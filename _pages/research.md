@@ -5,20 +5,30 @@ permalink: /research/
 order: 5
 ---
 
-I am broadly interested in Machine Learning and Social Network Analysis.
-<style>
-  #aligned-star {
-    vertical-align: middle;
-  }
-</style>
+I am broadly interested in Machine Learning and Social Network Analysis.<br>
+<br>
 [Google Scholar](https://scholar.google.com/citations?user=2lFWVlgAAAAJ&hl=en)
-<!-- ### Selected Papers -->
+
+### Selected Papers
+
+* [Analysing the Spread of Toxicity on Twitter]()  
+**Aatman Vaidya**, Seema Nagar, Amit Nanavati<br>
+ACM International Conference on Data Science and Management of Data [CODS-COMAD 2024]
+<!-- [PIP package](https://pypi.org/project/factscore) // [code](https://github.com/shmsw25/FActScore) // [tweet](https://twitter.com/kalpeshk2011/status/1661151332148084737) -->
+
+* [Forecasting the Spread of Toxicity on Twitter]()  
+**Aatman Vaidya**, Seema Nagar, Amit Nanavati<br>
+IEEE International Conference on Cognitive Machine Intelligence [COGMI 2023]
+
+* [The Uli Dataset: An Exercise in Experience Led Annotation of oGBV]()  
+Arnav Arora, ..., **Aatman Vaidya**, Tarunima Prabhakar et al.<br>
+preprint [ArXiv]
+
 ### Other Papers
 
-_Coping Resources of Young People Experiencing COVID-19 Second Wave, in India: A Preliminary Study_<br>
-Pandit, Shilpa Ashok; **Vaidya, Aatman**; Shah, Aangi; Shah, Eshva; Iyer, Isha; et al.<br>
-Journal of Psychosocial Research <span id="aligned-star">*</span> May, 2022<br>
-[[Paper](https://www.proquest.com/openview/0e01cf4ea635cfe15a0dd2e0e80f5edc/1?pq-origsite=gscholar&cbl=506336)]
+* [Coping Resources of Young People Experiencing COVID-19 Second Wave, in India: A Preliminary Study](https://www.proquest.com/openview/0e01cf4ea635cfe15a0dd2e0e80f5edc/1?pq-origsite=gscholar&cbl=506336)  
+Pandit, Shilpa Ashok, **Vaidya, Aatman**, Shah, Aangi; Shah, Eshva; Iyer, Isha et al.<br>
+Journal of Psychosocial Research [JPR 2022]
 
 ### Thesis
 
