@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-order: 5
+order: 4
 ---
 
 I am broadly interested in Machine Learning and Social Network Analysis.<br>
