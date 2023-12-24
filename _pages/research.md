@@ -30,6 +30,9 @@ preprint [ArXiv]
 Pandit, Shilpa Ashok, **Vaidya, Aatman**, Shah, Aangi; Shah, Eshva; Iyer, Isha et al.<br>
 Journal of Psychosocial Research [JPR 2022]
 
+* [Usable Pasts, Sustainable Futures](https://ahduni.edu.in/academics/schools-centres/centre-for-inter-asian-research/research/usable-pasts-sustainable-futures/)  
+The project tries to rediscover historically effective practices around Food, Clothing and Housing <i>(roti-kapda-makan)</i> that can help mitigate issues related climate change and public health. A [book-length](https://www.linkedin.com/posts/ciar-au_usablepastssustainablefutures-climatechange-activity-7119950987896774657-HYqj/) report documenting the discussions held during the three public-facing engagements of the project has been published. My contribution was to the [Housing](https://ahduni.edu.in/academics/schools-centres/centre-for-inter-asian-research/events/usable-pasts-sustainable-futures-the-housing-lab/) [Lab](https://www.youtube.com/watch?v=pZfYpChAvxU) as a Student Participant.<br>
+
 ### Thesis
 
 Undergraduate Thesis - [A Non-Conservational Approach to
