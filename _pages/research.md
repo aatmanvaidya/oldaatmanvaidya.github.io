@@ -26,6 +26,10 @@ preprint [ArXiv]
 
 ### Other Papers
 
+* [Overview of the 2023 ICON Shared Task on Gendered Abuse Detection in Indic Languages](https://arxiv.org/abs/2401.03677)  
+**Aatman Vaidya**, Arnav Arora, Aditya Joshi, Tarunima Prabhakar<br>
+Journal of Psychosocial Research [JPR 2022]
+
 * [Coping Resources of Young People Experiencing COVID-19 Second Wave, in India: A Preliminary Study](https://www.proquest.com/openview/0e01cf4ea635cfe15a0dd2e0e80f5edc/1?pq-origsite=gscholar&cbl=506336)  
 Pandit, Shilpa Ashok, **Vaidya, Aatman**, Shah, Aangi; Shah, Eshva; Iyer, Isha et al.<br>
 Journal of Psychosocial Research [JPR 2022]
