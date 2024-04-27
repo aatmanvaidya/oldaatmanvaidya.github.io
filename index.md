@@ -21,6 +21,7 @@ Email ID: aatmanvaidya [at] gmail [dot] com
 <table>
 <col width="100px">
 <col width="650px">
+<tr><td><b>Apr 2024:</b></td><td>The Uli Dataset paper is accepted at <a href="https://www.workshopononlineabuse.com/">Workshop on Online Harms and Abuse</a> at NAACL. <a href="https://arxiv.org/abs/2311.09086">[paper]</a></td></tr>
 <tr><td><b>Dec 2023:</b></td><td>Conducted a <a href="https://sites.google.com/view/icon2023-tattle-sharedtask/">Shared Task</a> on Gendered Abuse Detection in Indic Languages at <a href="http://icon2023.unigoa.ac.in/">ICON 2023</a>.</td></tr>
 <tr><td><b>Nov 2023:</b></td><td>Our Paper titled, "Analysing the Spread of Toxicity on Twitter" got <a href="https://dl.acm.org/doi/10.1145/3632410.3632436">accepted</a> at <a href="https://cods-comad.in/">CODS-COMAD</a>.</td></tr>
 <tr><td><b>Nov 2023:</b></td><td>Invited for a pannel at <a href="https://dsummit.defindia.org/">Digital Citizen Summit.</a></td></tr>
