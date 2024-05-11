@@ -12,7 +12,7 @@ I received my undergraduate degree from [Ahmedabad University](https://ahduni.ed
 
 You can find my research work and publications under the [Research]({{ site.url }}/research) tab.
 
-[CV / Resume]({{ site.url }}/assets/cv.pdf), [Google Scholar](https://scholar.google.com/citations?user=2lFWVlgAAAAJ&hl=en)<br>
+[CV / Resume]({{ site.url }}/assets/cv.pdf), [Google Scholar](https://scholar.google.com/citations?hl=en&user=ohaxgwoAAAAJ&view_op=list_works&sortby=pubdate)<br>
 Email ID: aatmanvaidya [at] gmail [dot] com
 
 #### <b>Updates</b>
