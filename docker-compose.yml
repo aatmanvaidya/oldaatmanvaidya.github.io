@@ -2,6 +2,7 @@ version: '3.8'
 
 services:
   jekyll:
+    container_name: jekyll
     build:
       context: .
       dockerfile: Dockerfile
