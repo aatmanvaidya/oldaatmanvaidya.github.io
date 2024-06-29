@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - aatmanvaidya
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - tattle-made/feluda
+  - tattle-made/Uli
+  - aatmanvaidya/Sentiment-Analysis-of-Online-Harassment-Towards-Women-Wrestlers
+  - aatmanvaidya/Ambutrack

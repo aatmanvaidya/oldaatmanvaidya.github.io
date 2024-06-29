@@ -1,113 +1,49 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
+@string{aaai = {Association for the Advancement of Artificial Intelligence,}}
+@string{acm = {Association for Computing Machinery,}}
+@string{arxiv = {arXiv,}}
+@string{acl = {Association for Computational Linguistics,}}
 
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
+% all the fileds - abbr, title, preview (conf image), author, abstract, booktitle, year, publisher, pdf, metatype, html, url, doi, selected, poster, slides, award, dataset.
+% see the _layouts/bib.html file for all the types 
+
+@inproceedings{arora2023uli,
+  abbr={NAACL 2024},
+  title={The Uli Dataset: An Exercise in Experience Led Annotation of oGBV},
+  author={Arora, Arnav and Jinadoss, Maha and Arora, Cheshta and George, Denny and Brindaalakshmi and .... and Vaidya, Aatman and Prabhakar, Tarunima},
+  abstract={Online gender-based violence has grown concomitantly with the adoption of the internet and social media. Its effects are worse in the Global majority where many users use social media in languages other than English. The scale and volume of conversations on the internet have necessitated the need for automated detection of hate speech and, more specifically, gendered abuse. There is, however, a lack of language-specific and contextual data to build such automated tools. In this paper, we present a dataset on gendered abuse in three languages- Hindi, Tamil and Indian English. The dataset comprises of tweets annotated along three questions pertaining to the experience of gender abuse, by experts who identify as women or a member of the LGBTQIA+ community in South Asia. Through this dataset, we demonstrate a participatory approach to creating datasets that drive AI systems.},
+  booktitle={The 8th Workshop on Online Abuse and Harms at Annual Conference of the North American Chapter of the Association for Computational Linguistics},
+  year={2024},
+  publisher={@acl},
+  html={https://arxiv.org/abs/2311.09086},
+  pdf={../papers/ogbv_dataset.pdf},
+  award={Outstanding Paper Award},
+  dataset={https://github.com/tattle-made/uli_dataset},
+  metatype={published}
 }
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+@inproceedings{vaidya2024analysing,
+  abbr={CODS-COMAD},
+  title={Analysing the Spread of Toxicity on Twitter},
+  author={Vaidya, Aatman and Nagar, Seema and Nanavati, Amit A},
+  abstract={The spread of hate speech on social media platforms has become a rising concern in recent years. Understanding the spread of hate is crucial for mitigating its harmful effects and fostering a healthier online environment. In this paper, we propose a new model to capture the evolution of toxicity in a network -- if a tweet with a certain toxicity (hatefulness) is posted, how much toxic a social network will become after a given number of rounds. We compute a toxicity score for each tweet, indicating the extent of the hatefulness of that tweet. Toxicity spread has not been adequately addressed in the existing literature. The two popular paradigms for modelling information spread, namely the Susceptible-Infected-Recovered (SIR) and its variants, as well as the spreading-activation models (SPA), are not suitable for modelling toxicity spread. The first paradigm employs a threshold and categorizes tweets as either toxic or non-toxic, while the second paradigm treats hate as energy and applies energy-conversion principles to model its propagation. Through analysis of a Twitter dataset consisting of $19.58$ million tweets, we observe that the total toxicity, as well as the average toxicity of original tweets and retweets in the network, does not remain constant but rather increases over time. In this paper, we propose a new method for toxicity spread. First, we categorize users into three distinct groups: Amplifiers, Attenuators, and Copycats. These categories are assigned based on the exchange of toxicity by a user, with Amplifiers sending out more toxicity than they receive, Attenuators experiencing a higher influx of toxicity compared to what they generate, and Copycats simply mirroring the hate they receive. We perform extensive experimentation on Barabási–Albert (BA) graphs, as well as subgraphs extracted from the Twitter dataset. Our model is able to replicate the patterns of toxicity.},
+  booktitle={Proceedings of the 7th Joint International Conference on Data Science \& Management of Data (11th ACM IKDD CODS and 29th COMAD)},
+  year={2024},
+  pages={118--126},
+  publisher={@acm},
+  html={https://dl.acm.org/doi/10.1145/3632410.3632436},
+  metatype={published}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
-}
-
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  selected={true}
-}
-
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@Article{einstein1905photoelectriceffect,
-  bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
+@article{vaidya2024overview,
+  abbr={ICON 2023},
+  title={Overview of the 2023 ICON Shared Task on Gendered Abuse Detection in Indic Languages},
+  author={Vaidya, Aatman and Arora, Arnav and Joshi, Aditya and Prabhakar, Tarunima},
+  abstract={This paper reports the findings of the ICON 2023 on Gendered Abuse Detection in Indic Languages. The shared task deals with the detection of gendered abuse in online text. The shared task was conducted as a part of ICON 2023, based on a novel dataset in Hindi, Tamil and the Indian dialect of English. The participants were given three subtasks with the train dataset consisting of approximately 6500 posts sourced from Twitter. For the test set, approximately 1200 posts were provided. The shared task received a total of 9 registrations. The best F-1 scores are 0.616 for subtask 1, 0.572 for subtask 2 and, 0.616 and 0.582 for subtask 3. The paper contains examples of hateful content owing to its topic.},
+  journal={The 20th International Conference on Natural Language Processing},
+  year={2023},
+  html={https://arxiv.org/abs/2401.03677},
+  metatype={published}
 }
