@@ -21,15 +21,10 @@ layout: default
             I do not update this page frequently; please contact me for an updated CV.
         </div> -->
 
-<!-- <object data="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}" type="application/pdf" width="100%" height="900">
-  <embed src="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}" type="application/pdf" width="100%" height="500" />
-  <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}">Download PDF</a>
-</object> -->
-
 <article class="post">
 
   <div class="post-content">
-    {{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}
+    {{ content }}
   </div>
 
 </article>
