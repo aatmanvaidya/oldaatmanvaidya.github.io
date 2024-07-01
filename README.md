@@ -14,3 +14,5 @@ $ bundle exec jekyll serve
 ```
 
 This site will be hosted here - `http://127.0.0.1:4000/`
+
+Github pages won't work on this because -  that the name of your repository :warning: **MUST BE** :warning: `<your-github-username>.github.io` or `<your-github-orgname>.github.io`, as stated in the [GitHub pages docs](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites).
