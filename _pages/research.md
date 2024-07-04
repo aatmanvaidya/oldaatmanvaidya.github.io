@@ -5,8 +5,6 @@ permalink: /research/
 order: 4
 ---
 
-I am broadly interested in Machine Learning and Social Network Analysis.<br>
-<br>
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=ohaxgwoAAAAJ&view_op=list_works&sortby=pubdate)
 
 ### Selected Papers

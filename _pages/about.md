@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 order: 1
+exclude: true
 ---
 
 My name is Aatman Vaidya, a recent graduate in BTech Computer Science and Engineering. I am primarily interested in Machine Learning and Social Network Analysis. 

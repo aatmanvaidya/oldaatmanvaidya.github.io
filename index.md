@@ -6,13 +6,16 @@ layout: page
 
 <img style="float: right; width: 27%; padding: 20px;" src=" {{ site.url }}/assets/profle.jpg">
 
-Hello, I am Aatman Vaidya, recent graduate in BTech Computer Science and Engineering. I am primarily interested in Machine Learning and Social Network Analysis.
+I am a SDE/ Researcher at [Tattle Civic Tech](https://tattle.co.in/), where I am advised by [Tarunima Prabhakar](https://tarunima.com/) and [Denny George](https://github.com/dennyabrain). I contribute to building open source tools and datasets to understand and respond to inaccurate and harmful content. 
 
-I received my undergraduate degree from [Ahmedabad University](https://ahduni.edu.in/). For my final year thesis, I proposed a novel model to capture the spread of Hate Speech on Twitter. I was also selected for the semi-finals of the [Bosch Future Mobility Challenge](https://boschfuturemobility.com/) in Cluj, Romania and built an [autonoums driving car](https://youtu.be/8FbNvK--q_s) for it (summer 2022).
+My research interests broadly lie within `Computational Social Science`, specifically in social network analysis and natural language processing. I am interested in studying the spread of misinformation and hate speech on social media platforms. 
 
-You can find my research work and publications under the [Research]({{ site.url }}/research) tab.
+Additionally, I am also interested in examining the potential harms and societal biases perpetuated by AI models and developing methods to mitigate these harms.
 
-[CV / Resume]({{ site.url }}/assets/cv.pdf), [Google Scholar](https://scholar.google.com/citations?hl=en&user=ohaxgwoAAAAJ&view_op=list_works&sortby=pubdate)<br>
+Previously, I finished my Bachelors in Computer Science where I was advised by [Amit Nanavati](https://ahduni.edu.in/academics/schools-centres/school-of-engineering-and-applied-science/people-1/amit-a-nanavati/) and [Seema Nagar](https://research.ibm.com/people/seema-nagar) (IBM Research India). We modelled the spread of hate speech over a social network. 
+
+Feel free to check out my [CV]({{ site.url }}/assets/cv.pdf) and drop me an email if you want to chat with me!
+
 Email ID: aatmanvaidya [at] gmail [dot] com
 
 #### <b>Updates</b>
