@@ -22,9 +22,12 @@ docker-compose up
 ```
 This will host the site at `localhost:8080`
 
+If you face any issues hosting the site, these links helped me
+- [offical install instructions](https://github.com/alshedivat/al-folio/blob/master/INSTALL.md)
+- https://github.com/alshedivat/al-folio/issues/1438#issuecomment-2027416529
+
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/master/LICENSE).
 
 Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](https://liabogoev.com) and under the MIT license). Since then, it got a full re-write of the styles and many additional cool features.
-
